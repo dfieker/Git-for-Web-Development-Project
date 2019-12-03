@@ -4,19 +4,32 @@ https://codepen.io/dfieker/pen/JjooEBM?editors=1100
 
 Review Questions:
 
-    1. What is Semantic HTML? 
-    2. What is HTML used for? 
-    3. What is an attribute and where do we put it? 
-    4. What is the h1 tag used for? How many times should I use it on a page?
+    1. What is Semantic HTML? = tags with meaning.
+
+    2. What is HTML used for? = it's used to create web pages. It also brings order to the process of creating web pages.
+
+    3. What is an attribute and where do we put it? = it provides more information regarding HTML elements. It's put in the start tag.
+
+    4. What is the h1 tag used for? How many times should I use it on a page? = We use it for displaying the title of the web page. It provides meaning to the search engine by informing any indexing tools that we want the title to be most important. I should use it once on a page.
+
     5. Name two tags that have required attributes
-    6. What do we put in the head of our HTML document? 
-    7. What is an id? 
-    8. What elements can I add an id to? 
-    9. How many times can I use the same id on a page? 
-    10. What is a class? 
-    11. What elements can I add a class to? 
-    12. How many times can I use the same class on a page? 
-    13. How do I get my link to open in a new tab?
+
+    6. What do we put in the head of our HTML document? = metadata
+
+    7. What is an id? = it's an attribute that specifies a unique id for an HTML element.
+
+    8. What elements can I add an id to? = any element
+
+    9. How many times can I use the same id on a page? = once
+
+    10. What is a class? = it's an attribute that defines equal styles for elements with the same class name.
+
+    11. What elements can I add a class to? = any HTML element
+
+    12. How many times can I use the same class on a page? = as many times as I want
+
+    13. How do I get my link to open in a new tab? = 
+    
     14. What is the alt attribute used for? 
     15. How do I reference an id?
     16. What is the difference between a section and a div
