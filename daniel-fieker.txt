@@ -48,8 +48,8 @@ Review Questions:
 
     22. What is a parent child selector? When would this be useful? = It selects all elements that are a direct child of the specified element. It would be useful whenever I want one or more elements to have the characteristics of their parent. 
 
-    23. How do you select all links within a div with the class of sidebar? = Not sure
-    
+    23. How do you select all links within a div with the class of sidebar? = div a .sidebar { }
+
     24. What is a pseudo selector? = it is a CSS selector with a colon preceding it. A pseudo-class is used to define a special state of an element.
 
     25. What do we use the change the spacing between lines? = line-height
